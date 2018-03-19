@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiteCirleApp</string>
+    <string name="textView">"Activity 2     "</string>
+    <string name="button">Move to activity 1</string>
+</resources>

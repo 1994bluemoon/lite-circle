@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chuyển Trang</string>
+    <string name="textView">Hoạt động 2</string>
+    <string name="button">Chuyển sang hoạt động 1</string>
+</resources>
